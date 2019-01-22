@@ -1,6 +1,8 @@
+# Hello World! - The beginning of C++ Programming
+
 This is a simple program, written in C++. It does nothing more than printing the words "Hello World!" to the console or terminal. 
 
-How to Run: 
+## How to Run: 
 
 It is probably the most famous phrase and for many it is the beginning of the programmer career. In order for the file to run, it 
 might actually be necessary to compile it first. You can compile it by using the following command in Linux or Mac: 
@@ -16,7 +18,7 @@ or by using just
   the file in the IDE and run it from within the IDE, using the respective options or - if the IDE comes with an own console - use 
   the above compiles command in it. 
   
-  Other stuff: 
+## Other stuff: 
   
   If you have any questions or need help, please do not hesitate to comment! 
   
