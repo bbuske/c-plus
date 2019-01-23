@@ -20,11 +20,11 @@ In C++ there are the following types of variables:
 
 With values and especially values stored in variables, you can do arithmetic operations and calculations. Operators used are: 
 
-+ >> Addition
-- >> Substraction
-* >> Multiplication
-* >> \/ Division
-* >> \% Modulo
+* >> Addition (+)
+* >> Substraction (-)
+* >> Multiplication (*)
+* >> Division (/)
+* >> Modulo (%)
 
 The modulo is a special operator, that provides a remainder of a division. So for example 12 / 5 divides 12 by 5. 12 % 5 provides
 the remainder of the division 12 / 5. The result of 12 % 5 is 2! 12 / 5 is 2, which sums up to 10. The remainder is 2 (10 - 12 = 2) 
