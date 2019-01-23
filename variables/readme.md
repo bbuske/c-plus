@@ -8,13 +8,13 @@ be used and what they are.
 
 In C++ there are the following types of variables: 
 
-* int (integer) >> stores full (integer numbers)
-* float >> stores decimal (floating numbers)
-* double >> same as float, but higher precision and allows for longer numbers. Double should be preferred way
-* bool >> stores a true or false value 
-* char >> stores a chracter 
-* wchar_t >> a wide character type
-* void >> represents the absence of type.
+* >> int (integer) >> stores full (integer numbers)
+* >> float >> stores decimal (floating numbers)
+* >> double >> same as float, but higher precision and allows for longer numbers. Double should be preferred way
+* >> bool >> stores a true or false value 
+* >> char >> stores a chracter 
+* >> wchar_t >> a wide character type
+* >> void >> represents the absence of type.
 
 ## Arithmetic Operations 
 
